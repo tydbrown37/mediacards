@@ -1,0 +1,699 @@
+img {
+  border-radius: 5px 5px 0px 0px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container1 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button1 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button1:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button1:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card2 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container2 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button2 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button2:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button2:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card3 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card3:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container3 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button3 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button3:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button3:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card4 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card4:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container4 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button4 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button4:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button4:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card5 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card5:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container5 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button5 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button5:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button5:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card6 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card6:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container6 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button6 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button6:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button6:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card7 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card7:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container7 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button7 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button7:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button7:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card8 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card8:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container8 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button8 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button8:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button8:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card9 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card9:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container9 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button9 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button9:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button9:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card10 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card10:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container10 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button10 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button10:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button10:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card11 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,10);
+  transition: 0.3s;
+  border-radius: 5px black;
+  border: 10px black;
+  width: 275px;
+  margin: 10;
+  padding: 0px 0px;
+  border-radius: 5px 5px 5px 5px;
+  float: left;
+}
+
+.card11:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container11 {
+  border: 5px black;
+  width: 250px;
+  height: 225px;
+  margin: 0;
+  padding: 2px 16px;
+}
+
+.button11 {
+    position: relative;
+    border: none;
+    font-size: 28px;
+    padding: 0px;
+    width: 70px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button11:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button11:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+}
